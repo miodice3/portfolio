@@ -27,6 +27,7 @@ function Footer() {
                                 Freelance is a free to use, MIT licensed Bootstrap theme created by
                                 <a href="http://startbootstrap.com"> Start Bootstrap</a>
                                 .
+                                Test Edit
                             </p>
                         </div>
                     </div>
